@@ -25,7 +25,7 @@ Fikr va mulohazalar uchun [Dasturlash bo'yicha Foydamiz Tegsin!](https://t.me/fo
 <hr>
 
 
-> *Loyihani papkasiga kiring ca __make install__*
+> *Loyihani papkasiga kiring va __make install__*
  ![pythonanywhere](images/3.png)
 
 <hr>
