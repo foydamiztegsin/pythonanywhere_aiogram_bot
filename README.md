@@ -14,31 +14,31 @@ Fikr va mulohazalar uchun [Dasturlash bo'yicha Foydamiz Tegsin!](https://t.me/fo
 
 
 > *$Bash*
- ![Timeweb](images/1.PNG)
+ ![pythonanywhere](images/1.PNG)
 
 <hr>
 
 
 > *Loyihani clon qiling *
- ![Timeweb](images/2.PNG)
+ ![pythonanywhere](images/2.PNG)
 
 <hr>
 
 
 > *Loyihani papkasiga kiring ca __make install__ *
- ![Timeweb](images/3.PNG)
+ ![pythonanywhere](images/3.PNG)
 
 <hr>
 
 
 > *Rasmdagi holat kuzatilishiga e'tibor bering *
- ![Timeweb](images/4.PNG)
+ ![pythonanywhere](images/4.PNG)
 
 <hr>
 
 
 > *Shu yerda(loyiha papkasini ichida) .env fayl yarating va faylga yozish uchun nano .env buyrug'ini bering *
- ![Timeweb](images/5.PNG)
+ ![pythonanywhere](images/5.PNG)
 
 <hr>
 <hr>
@@ -55,7 +55,7 @@ Fikr va mulohazalar uchun [Dasturlash bo'yicha Foydamiz Tegsin!](https://t.me/fo
 <hr>
 
 > *Loyihani ishga tushiring __make start__ *
- ![Timeweb](images/6.PNG)
+ ![pythonanywhere](images/6.PNG)
 
 <hr>
 
