@@ -3,7 +3,7 @@ Telegramda  aiogram orqali  bot tuzish uchun shablon
 
 <br>
 <br>
-.env fayl yarating va faylga .env.exam faylida ko'rsatilganlarni yozing....
+.env fayl yarating va faylga env.exam faylida ko'rsatilganlarni yozing....
 <br>
 PROXY_URL ga http://proxy.server:3128 ni yozing
 <br>
