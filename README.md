@@ -19,25 +19,25 @@ Fikr va mulohazalar uchun [Dasturlash bo'yicha Foydamiz Tegsin!](https://t.me/fo
 <hr>
 
 
-> *Loyihani clon qiling *
+> *Loyihani clon qiling*
  ![pythonanywhere](images/2.png)
 
 <hr>
 
 
-> *Loyihani papkasiga kiring ca __make install__ *
+> *Loyihani papkasiga kiring ca __make install__*
  ![pythonanywhere](images/3.png)
 
 <hr>
 
 
-> *Rasmdagi holat kuzatilishiga e'tibor bering *
+> *Rasmdagi holat kuzatilishiga e'tibor bering*
  ![pythonanywhere](images/4.png)
 
 <hr>
 
 
-> *Shu yerda(loyiha papkasini ichida) .env fayl yarating va faylga yozish uchun nano .env buyrug'ini bering *
+> *Shu yerda(loyiha papkasini ichida) .env fayl yarating va faylga yozish uchun nano .env buyrug'ini bering*
  ![pythonanywhere](images/5.png)
 
 <hr>
@@ -54,7 +54,7 @@ Fikr va mulohazalar uchun [Dasturlash bo'yicha Foydamiz Tegsin!](https://t.me/fo
 <hr>
 <hr>
 
-> *Loyihani ishga tushiring __make start__ *
+> *Loyihani ishga tushiring __make start__*
  ![pythonanywhere](images/6.png)
 
 <hr>
