@@ -2,7 +2,7 @@
 name = "pythonanywhere_aiogram_bot"
 version = "0.1.0"
 description = ""
-authors = [Foydamiz Tegsin <https://t.me/foydamizteg_sin>"]
+authors = ["Foydamiz Tegsin <https://t.me/foydamizteg_sin>"]
 readme = "README.md"
 packages = [{include = "pythonanywhere_aiogram_bot"}]
 
