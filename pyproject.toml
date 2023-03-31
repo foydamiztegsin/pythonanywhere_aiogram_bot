@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pythonanywhere_aiogram_bot"
+version = "0.1.0"
+description = ""
+authors = [Foydamiz Tegsin <https://t.me/foydamizteg_sin>"]
+readme = "README.md"
+packages = [{include = "pythonanywhere_aiogram_bot"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+aiogram = "^2.25.1"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
