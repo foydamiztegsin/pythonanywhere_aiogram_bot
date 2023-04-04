@@ -1,5 +1,5 @@
 # aiogram-bot-shablon
-Telegramda  aiogram orqali  bot tuzish uchun shablon
+Telegramda  aiogram  orqali  bot tuzish uchun shablon
 
 <br>
 <br>
