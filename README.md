@@ -8,7 +8,7 @@ Fikr va  mulohazalar uchun [Dasturlash bo'yicha Foydamiz Tegsin!](https://t.me/f
 
 
 
-# Loyihani yuklash
+# Loyihani  yuklash
 
 <hr>
 
