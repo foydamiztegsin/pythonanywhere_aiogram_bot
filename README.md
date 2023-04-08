@@ -31,7 +31,7 @@ Fikr va  mulohazalar uchun [Dasturlash bo'yicha Foydamiz Tegsin!](https://t.me/f
 <hr>
 
 
-> *Rasmdagi holat kuzatilishiga e'tibor bering*
+> *Rasmdagi  holat kuzatilishiga e'tibor bering*
  ![pythonanywhere](images/4.png)
 
 <hr>
