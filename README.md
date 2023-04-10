@@ -19,7 +19,7 @@ Fikr  va  mulohazalar uchun [Dasturlash bo'yicha Foydamiz Tegsin!](https://t.me/
 <hr>
 
 
-> *Loyihani clon qiling*
+> *Loyihani  clon qiling*
  ![pythonanywhere](images/2.png)
 
 <hr>
