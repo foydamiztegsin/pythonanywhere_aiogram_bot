@@ -4,7 +4,7 @@ Telegramda  aiogram  orqali  bot tuzish uchun shablon
 <br>
 <br>
 
-Fikr  va  mulohazalar uchun [Dasturlash bo'yicha Foydamiz Tegsin!](https://t.me/foydamizteg_sin)
+Fikr  va  mulohazalar uchun [Dasturlash bo'yicha  Foydamiz Tegsin!](https://t.me/foydamizteg_sin)
 
 
 
